@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.AddForm {
+    background-color: #3AD886;
+    height: 575px;
+    width: 500px;
+    margin: 60px 30px 30px 30px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+label {
+    font-size: 25px;
+}
+
+.FormInput {
+    width: 490px;
+    height: 20px;
+}
+
+.Butts {
+    background-color: #ED6B5A;
+    padding: 10px;
+}
